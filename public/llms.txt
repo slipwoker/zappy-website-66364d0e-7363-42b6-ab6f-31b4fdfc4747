@@ -1,0 +1,61 @@
+# בורדר מזון וציוד לחיות מחמד — Generative Engine Optimization Map
+
+> A מסחר קמעונאי - חיות מחמד business.
+
+---
+
+## Pages
+
+### בית
+https://-66364d0e.zappy5.app
+גלו את המגוון הרחב של מזון איכותי וציוד מתקדם לחיות המחמד שלכם. בורדר - החנות המובילה למזון וציוד לחיות מחמד עם משלוח עד הבית.
+
+### מוצרים
+https://-66364d0e.zappy5.app/products
+גלו את המגוון המלא של מוצרי מזון וציוד לחיות מחמד בבורדר. מזון לכלבים וחתולים, צעצועים, אביזרי טיפוח ועוד - כל מה שחיית המחמד שלכם צריכה.
+
+### שירותים
+https://-66364d0e.zappy5.app/services
+השירותים המקצועיים של בורדר - ייעוץ תזונתי, משלוחים מהירים, תמיכה מתמשכת ועוד. חנות מזון וציוד לחיות מחמד עם שירות אישי ומקצועי.
+
+### אודות
+https://-66364d0e.zappy5.app/about
+הכירו את בורדר - חנות מזון וציוד לחיות מחמד המובילה בישראל. הסיפור שלנו, הערכים שלנו, והמחויבות שלנו לטיפול מיטבי בחיות המחמד שלכם.
+
+### צור קשר
+https://-66364d0e.zappy5.app/contact
+צרו קשר עם בורדר - חנות מזון וציוד לחיות מחמד. נשמח לענות על כל שאלה ולעזור לכם לבחור את המוצרים הטובים ביותר לחיית המחמד שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-66364d0e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-66364d0e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-66364d0e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בורדר מזון וציוד לחיות מחמד
+בורדר מזון וציוד לחיות מחמד is a business in the מסחר קמעונאי - חיות מחמד industry.
+
+## Target Audience
+בעלי חיות מחמד
+
+## Industry
+מסחר קמעונאי - חיות מחמד
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-66364d0e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-66364d0e.zappy5.app/robots.txt
